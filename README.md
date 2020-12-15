@@ -1,6 +1,6 @@
 # ETL-to-sync-data-for-batch-processing
 
-Backgroud
+Background
 
 1. Data comes from Kaggle
 2. E-commerce company X wants to migrate their historical data from traditional database RDS to Data Warehouse
