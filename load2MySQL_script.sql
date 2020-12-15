@@ -138,5 +138,3 @@ FIELDS TERMINATED BY ','
 ENCLOSED BY '"' 
 IGNORE 1 LINES;
 
-select * from sellers limit 10;
-
