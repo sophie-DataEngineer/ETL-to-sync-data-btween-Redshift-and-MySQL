@@ -11,3 +11,4 @@ Invovled Componets
 Python script
 AWS RDS MySQL, Data Pipeline, S3, Lambda, Glue, Redshift, QiuickSight
 
+Find details in project_summary.pdf
