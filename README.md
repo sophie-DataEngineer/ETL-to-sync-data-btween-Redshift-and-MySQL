@@ -2,7 +2,7 @@
 
 Background
 
-1. Data comes from Kaggle
+1. Data comes from Kaggle: https://www.kaggle.com/olistbr/brazilian-ecommerce
 2. E-commerce company X wants to migrate their historical data from traditional database RDS to Data Warehouse
 3. And then build automate data pipeline to do batch processing hourly to sync data
 
